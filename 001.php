@@ -13,9 +13,9 @@ class  Abc{
     }
     public function test2()
 {
-   $a =2;
-$b=1;
-echo &$a;
-
+       $a =2;
+       $b=1;
+      echo +$a;
+        
 
 }}
