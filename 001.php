@@ -11,4 +11,11 @@ class  Abc{
         $this->name;
         $this->arr;
     }
-}
+    public function test2()
+{
+   $a =2;
+$b=1;
+echo &$a;
+
+
+}}
